@@ -1,0 +1,17 @@
+/* Social Button Icon Styling */
+/* Colors */
+html, body{
+    margin: 0;
+    height: 100%;
+}
+.container{
+    padding-top: 30px;
+    min-height: 100%;
+    text-align: center;
+    /* fallback for old browers */
+    background: #fffbd5;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom, #fffbd5, #b20a2c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, safari 7+ */
+    background: linear-gradient(to bottom, #fffbd5, #b20a2c);
+}
