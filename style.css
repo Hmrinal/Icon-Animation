@@ -15,3 +15,10 @@ html, body{
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, safari 7+ */
     background: linear-gradient(to bottom, #fffbd5, #b20a2c);
 }
+.headline{
+    text-align: center;
+}
+.headline h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
