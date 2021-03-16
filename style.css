@@ -31,4 +31,7 @@ html, body{
     text-align: center;
     margin: 20px 10px;
     /* Helper class to divide the icons */
+} 
+.social-buttons .social-margin{
+    margin-right:15px;
 }
