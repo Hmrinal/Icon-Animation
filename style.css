@@ -35,3 +35,16 @@ html, body{
 .social-buttons .social-margin{
     margin-right:15px;
 }
+.social-buttons a, 
+.social-buttons a:hover,
+.social-buttons a:focus,
+.social-buttons a:active{
+    text-decoration: none;
+}
+.social-buttons .social-icon{
+    margin-bottom:15px;
+    box-sizing: border-box;
+    -moz-border-radius:138px;
+    -webkit-border-radius:138px;
+    
+}
