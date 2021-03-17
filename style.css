@@ -65,3 +65,6 @@ html, body{
     /* Youtube Button Styling */
     /* Soundcloud Button Styling */
 }
+.social-buttons .social-icon:hover{
+    transform: rotate(360deg) scale(1.3);
+}
