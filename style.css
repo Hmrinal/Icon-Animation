@@ -79,3 +79,15 @@ html, body{
     background-color: #ffffff;
     color: #3b5998;
 }
+.social-buttons .social-icon.twitter{
+    font-size: 22px;
+    padding-top: 10px;
+    padding-left: 2px;
+    border-color: #55acee;
+    background-color: #55acee;
+    color: #ffffff;
+}
+.social-buttons .social-icon.twitter:hover{
+    background-color: #ffffff;
+    color: #55acee;
+}
