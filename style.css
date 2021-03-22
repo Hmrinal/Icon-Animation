@@ -115,3 +115,14 @@ html, body{
     background-color: #ffffff;
     color: #0976b4;
 }
+.social-buttons .social-icon.pinterest{
+    font-size: 22px;
+    padding-top: 9px;
+    border-color: #cb2027;
+    background-color: #cb2027;
+    color: #ffffff;
+}
+.social-buttons .social-icon.pinterest:hover{
+    background-color: #ffffff;
+    color: #cb2027;
+}
