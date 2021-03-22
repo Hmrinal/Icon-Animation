@@ -126,3 +126,14 @@ html, body{
     background-color: #ffffff;
     color: #cb2027;
 }
+.social-buttons .social-icon.behance{
+    font-size: 22px;
+    padding-top: 9px;
+    border-color: #1769ff;
+    background-color: #1769ff;
+    color: #ffffff;
+}
+.social-buttons .social-icon.behance:hover{
+    background-color: #1769ff;
+    color: #0976b4;
+}
