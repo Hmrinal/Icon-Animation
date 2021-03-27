@@ -136,7 +136,8 @@ html, body{
 .social-buttons .social-icon.behance:hover{
     background-color: #1769ff;
     color: #0976b4;
-}.social-buttons .social-icon.github{
+}
+.social-buttons .social-icon.github{
     font-size: 22px;
     padding-top: 9px;
     border-color: #4183c4;
@@ -146,5 +147,17 @@ html, body{
 .social-buttons .social-icon.github:hover{
     background-color: #ffffff;
     color: #4183c4;
+}
+.social-buttons .social-icon.youtube{
+    font-size: 22px;
+    padding-top: 9px;
+    padding-left: 0px;
+    border-color: #bb0000;
+    background-color: #bb0000;
+    color: #ffffff;
+}
+.social-buttons .social-icon.youtube:hover{
+    background-color: #ffffff;
+    color: #bb0000;
 }
 
