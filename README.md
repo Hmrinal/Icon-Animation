@@ -9,4 +9,4 @@ In order to enhance and practice HTML and CSS, here is a project on animating th
 
 ## 📦 Install
 
-Install VSCode or any other code editor that suits you. Make a `gitHub` repository and connet it with VSCode file to make instant push request. 
+Install VSCode or any other code editor that suits you. Make a `gitHub` repository and connet it with `VSCode` file to make instant push request. 
